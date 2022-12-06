@@ -1,0 +1,15 @@
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\bin\Debug\net6.0\Draw.io 1.exe
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\bin\Debug\net6.0\Draw.io 1.deps.json
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\bin\Debug\net6.0\Draw.io 1.runtimeconfig.json
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\bin\Debug\net6.0\Draw.io 1.dll
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\bin\Debug\net6.0\Draw.io 1.pdb
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\Draw.io 1.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\Draw.io 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\Draw.io 1.AssemblyInfoInputs.cache
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\Draw.io 1.AssemblyInfo.cs
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\Draw.io 1.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\Draw.io 1.dll
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\refint\Draw.io 1.dll
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\Draw.io 1.pdb
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\Draw.io 1.genruntimeconfig.cache
+C:\Users\Анатолий\Desktop\Draw.io\Draw.io 1\obj\Debug\net6.0\ref\Draw.io 1.dll
